@@ -1,4 +1,4 @@
-# False Color Imagery of Thomas Fire
+# The Effects of the Thomas Fire
 
 #### Emma Bea Mitchell | December 3rd, 2014
 
