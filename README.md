@@ -49,7 +49,9 @@ AirData, US EPA. Available from:  https://aqs.epa.gov/aqsweb/airdata/download_fi
 eds220-hwk4/
 │
 ├── README.md                     
-├── Thomas_fire_post.ipynb                      
+├── Thomas_fire_post.ipynb   
+├──fire_aqi.ipynb
+├──false_color.ipynb
 ├── .gitignore                    
 ├── landsat_map_thomas_fire.png
 |
